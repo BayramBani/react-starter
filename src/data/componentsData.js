@@ -6,5 +6,9 @@ exports.navbarData = [
   {
     link: '/about',
     text: 'About'
+  },
+  {
+    link: '/demo',
+    text: 'Demo'
   }
 ];
